@@ -16,6 +16,7 @@ Az alkalmazás gyökér könyvtárában létre kell hozni egy `db.json` nevű f�
       "title": "a title",
       "views": 100
     },
+    
     {
       "id": "2",
       "title": "another title",
